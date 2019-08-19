@@ -1,7 +1,7 @@
 
 Java implementation of the classic snake game using awt , Swings and java Applets , Created by Nouran Waleed. 
 
-If the user eats a "food", which is the red square that appears on the screen, the snake grows by one block. The user loses if his snake hits itself or if it hits the edge of the screen. 
+If the user eats a "food", which is the circule that appears on the screen, the snake grows by one block. The user loses if his snake hits itself or if it hits the edge of the screen. 
 
 
 The majority of the code for this program was done in the SnakeAI.java file, which is the implementation of the snake class.
